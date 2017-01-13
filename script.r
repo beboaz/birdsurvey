@@ -5,6 +5,6 @@ Read data file
 
 Run analysis
 
-Save table
+Save table with bold header
 
 save small figure
